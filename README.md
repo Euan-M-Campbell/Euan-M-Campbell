@@ -25,7 +25,7 @@ I’m particularly interested in systems that ingest, transform, and structure l
 
 - First Class Honours BSc in Computer Science  
 - Two internships at SAS, contributing to the Visual Investigator platform as an Angular front-end developer  
-- Early engineer at Trismik (University of Cambridge spin-out), where I designed and built **Scorebook**, a Python library for LLM evaluation and benchmarking  
+- Early engineer at Trismik, where I designed and built **Scorebook**, a Python library for LLM evaluation and benchmarking  
 
 ---
 
