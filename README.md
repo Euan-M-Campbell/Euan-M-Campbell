@@ -31,7 +31,7 @@ I’m particularly interested in systems that ingest, transform, and structure l
 
 ### 🚧 Current Work
 
-I’m currently building **[KONTEXT](https://github.com/ContextNews)** — an open-source platform for structuring and understanding news at scale.
+I’m currently building **[CONTEXT](https://github.com/ContextNews)** — an open-source platform for structuring and understanding news at scale.
 
 Kontext ingests articles from multiple sources, groups related coverage into coherent stories, and applies machine learning to extract structure, meaning, and relationships from raw text. The aim is to move beyond isolated headlines and towards clearer, data-driven views of events, supported by timelines, analytics, and contextual data.
 
